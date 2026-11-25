@@ -1,0 +1,26 @@
+id,name,price,category,emoji,description,available,image
+1,Beginner Kota,20,Kotas,🥪,"Atchar, Palony, Chips, Half russian, French toast.",yes,images/beginner-kota.jpg
+2,G-Coast Kota,25,Kotas,🥪,"Atchar, Palony, Lettuce, Cheese, Chips, Full russian, French toast.",yes,images/g-coast-kota.jpg
+3,King size Kota,30,Kotas,🥪,"Atchar, Palony, Cheese, Chips, Fried egg, Full russian, French toast.",yes,images/king-size-kota.jpg
+4,Delux Kota,45,Kotas,🥪,"Atchar, Palony, Cheese, Chips, Fried egg, Full russian, Full Vienna, Burgerpetty, French toast.",yes,images/delux-kota.jpg
+5,Side platter Kota,55,Kotas,🍗,"Atchar,Palony,Cheese, Heavy Chips, Fried egg, Full russian, Full Vienna, Burgerpetty, French toast, 2*wings.",yes,images/side-platter-kota.jpg
+6,Full House Kota,100,Kotas,🥪,"Whole loaf filled with Heavy Chips, Atchar, Palony , Lettuce, 2*Fried eggs, 4*Russian, 2*Vienna, 2*slice of cheese, French fried toast, Six nuggets and Chips.Good for sharing.",yes,images/full-house-kota.jpg
+7,Family Super-Mega Kota,130,Kotas,🥪,"Whole loaf filled with Heavy Chips, Atchar, Palony, Lettuce, 3*Fried eggs, 3*Russian, 5*Burger petty, 2*slice of cheese, French fried toast, Mixed Chips with Vienna and Russian.Good for sharing.",yes,images/family-kota.jpg
+8,Chips (Small),20,Chips,🍟,"Small portion of hot, golden chips with salt and vinegar.",yes,images/chips-small.jpg
+9,Chips (Medium),30,Chips,🍟,"Medium portion of hot, golden chips with salt and vinegar.",yes,images/chips-medium.jpg
+10,Chips (Large),40,Chips,🍟,"Large portion of hot, golden chips with salt and vinegar. Good for sharing.",yes,images/chips-large.jpg
+11,Sandwich (Small),30,Sandwiches,🥪,"One French fried slice with, Polony, Cheese, Lettuce, Fried eggs,Hot golden Chips.",yes,images/sandwich-small.jpg
+12,Sandwich (Medium),50,Sandwiches,🥪,"Two French fried slices with, Polony, Cheese, Lettuce, Fried egg, Hot golden Chips, 2 pieces of crispy chicken wings.",yes,images/sandwich-medium.jpg
+13,Sandwich (Large),65,Sandwiches,🥪,"Four French fried slices with, Polony, Cheese, Lettuce, Fried egg, Hot golden Chips, 4 pieces of crispy chicken wings.",yes,images/sandwich-large.jpg
+14,Extra Cheese,5,Extras,🧀,One extra slice of cheese.,yes,images/extra-cheese.jpg
+15,Extra Polony Slice,3,Extras,🥓,One extra slice of polony.,yes,images/extra-polony-slice.jpg
+16,Extra Egg,5,Extras,🍳,One extra fried egg.,yes,images/extra-egg.jpg
+17,Extra Vienna,6,Extras,🌭,One extra vienna sausage.,yes,images/extra-vienna.jpg
+18,Extra Russian,12,Extras,🌭,One extra russian sausage.,yes,images/extra-russian.jpg
+19,Cooldrink 500ml,16,Drinks,🥤,Ice-cold can. Ask for your flavour in the notes.,yes,images/cooldrink-500ml.jpg
+20,Cappy juice 300ml,18,Drinks,💧,Still juice. Ask for your flavour in the notes.,yes,images/cappy-juice-300ml.jpg
+21,2L Original Softdrink,27,Drinks,🥤,2L bottle of ice-cold original flavour cooldrink. Ask for your flavour in the notes.,yes,images/softdrink-2l.jpg
+22,2L Kingsley Softdrink,15,Drinks,🥤,2L bottle of ice-cold Kingsley softdrink. Ask for your flavour in the notes.,yes,images/kingsley-2l.jpg
+23,Wings (5 pcs),60,Wings,🍗,"5 pieces of hot, crispy chicken wings.",yes,images/wings-5pcs.jpg
+24,Wings (10 pcs),115,Wings,🍗,"10 pieces of hot, crispy chicken wings.",yes,images/wings-10pcs.jpg
+25,Nuggets (4 pcs),12,Nuggets,🍗,"4 pieces of hot, crispy chicken nuggets.",yes,images/nuggets-4pcs.jpg
