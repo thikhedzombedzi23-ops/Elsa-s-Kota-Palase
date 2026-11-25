@@ -2,7 +2,7 @@
 
 I built this website for Elsa's Kota Palace. Customers pick what they want to eat, fill in their details, and the order goes straight to the shop on WhatsApp. There is no database and no server. It is just HTML, CSS and JavaScript.
 
-**Live site:** _add your link here after you publish it (GitHub Pages or Netlify)_
+**Live site:** _https://thikhedzombedzi23-ops.github.io/Elsa-s-Kota-Palase/_
 
 ## What it does
 
